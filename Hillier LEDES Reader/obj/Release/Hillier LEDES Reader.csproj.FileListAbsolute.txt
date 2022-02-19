@@ -1,0 +1,9 @@
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\bin\Release\Hillier LEDES Reader.exe.config
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\bin\Release\Hillier LEDES Reader.exe
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\bin\Release\Hillier LEDES Reader.pdb
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Release\Hillier_LEDES_Reader.LEDESeditor.resources
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Release\Hillier_LEDES_Reader.Properties.Resources.resources
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Release\Hillier LEDES Reader.csproj.GenerateResource.cache
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Release\Hillier LEDES Reader.csproj.CoreCompileInputs.cache
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Release\Hillier LEDES Reader.exe
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Release\Hillier LEDES Reader.pdb

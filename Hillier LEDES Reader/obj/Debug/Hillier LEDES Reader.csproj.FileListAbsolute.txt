@@ -1,0 +1,10 @@
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Debug\Hillier LEDES Reader.csproj.AssemblyReference.cache
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Debug\Hillier_LEDES_Reader.Properties.Resources.resources
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Debug\Hillier LEDES Reader.csproj.GenerateResource.cache
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Debug\Hillier LEDES Reader.csproj.CoreCompileInputs.cache
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\bin\Debug\Hillier LEDES Reader.exe.config
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\bin\Debug\Hillier LEDES Reader.exe
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\bin\Debug\Hillier LEDES Reader.pdb
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Debug\Hillier LEDES Reader.exe
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Debug\Hillier LEDES Reader.pdb
+C:\Users\ahart\source\repos\Hillier LEDES Reader\Hillier LEDES Reader\obj\Debug\Hillier_LEDES_Reader.LEDESeditor.resources
